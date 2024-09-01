@@ -1,0 +1,25 @@
+/* App.css */
+
+.container {
+    max-width: 1200px; /* Adjust as per your design */
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  /* Adjustments for smaller screens */
+  @media screen and (max-width: 768px) {
+    .container {
+      padding: 0 10px;
+    }
+    
+    /* Add any additional responsive styles as needed */
+  }
+  
+  /* Adjustments for even smaller screens (e.g., phones) */
+  @media screen and (max-width: 480px) {
+    .container {
+      padding: 0 5px;
+    }
+    
+    /* Add any additional responsive styles as needed */
+  }
