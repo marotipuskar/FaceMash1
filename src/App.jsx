@@ -16,7 +16,7 @@ const likeno="https://as2.ftcdn.net/v2/jpg/05/54/76/53/1000_F_554765365_GV87lL7y
 // https://as2.ftcdn.net/v2/jpg/05/54/76/53/1000_F_554765365_GV87lL7ynZSvGDQt26BBsJ89hfrYfDzU.jpg
 const likem1="https://www.freeiconspng.com/thumbs/thumbs-up-icon/blue-thumbs-up-icon-2.png"
 {/* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbKrfMmQvOKGgnJJL6lUKKM2gCx6plyaLlMd0mld2MoA&s" alt="" /> */}
-const dislikeno ="https://www.clipartkey.com/mpngs/m/85-858721_dislike-clipart-black-and-white.png"
+const dislikeno ="https://th.bing.com/th/id/OIP.F9ivyxZ1hscW-IaOOC0AdQHaHT?rs=1&pid=ImgDetMain"
 const dislikem1="https://cdn-icons-png.flaticon.com/128/1612/1612805.png"
 
 
